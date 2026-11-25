@@ -16,7 +16,9 @@ This project is designed to introduce developers to the Syncfusion Blazor AppBar
 
 ## Prerequisites
 - Visual Studio 2022  
-- .NET SDK 6.0 or later  
+- .NET SDK 10.0 or later
+- Syncfusion Blazor 35.2.12 (Buttons, Navigations, Themes)
+- A Syncfusion license key registered in Program.cs (already present in this sample). No database is required.  
 
 ## Installation and Running the Application
 1. Clone the repository.
